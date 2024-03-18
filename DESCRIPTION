@@ -1,0 +1,21 @@
+Package: TreeStats
+Type: Package
+Title: A package for analyzing tree statistics
+Version: 0.1.0
+Author:Yanpeng Chen
+Maintainer: Yanpeng Chen<yanpengch@qq.com>
+Description: A collection of functions for comparing phylogenies.
+License: MIT
+Imports:
+  TreeTools
+  ggtree
+  treeio
+  tidyverse
+  TreeDist
+  openxlsx
+  pheatmap
+  this.path
+  ggplot2
+  ggsci
+  ggpubr
+  stringr
